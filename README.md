@@ -4,9 +4,10 @@ Welcome to my github profile!
 
 I have a wide variety of interests in sofrware development, from functional programming and type theory, formal methods, logic programming, security, GIS, and game development, to UI/UX development. So if you see something that interests you on one of my personal projects, feel free to reach out. Pull requests welcome.
 
-- ✏️ I’m currently working on [Iodine](https://github.com/Sintrastes/iodine#iodine) and [Meriv](https://github.com/Sintrastes/meriv-vscode).
 - 🗨️ I use he/him pronouns.
 - 📫 How to reach me: nbedell@tulane.edu
+- 🏗️ I’m currently working on [Iodine](https://github.com/Sintrastes/iodine#iodine) and [Meriv](https://github.com/Sintrastes/meriv-vscode).
+- ✏️ I write [a blog](https://sintrastes.github.io/blog/archive.html) about math and programming sometimes.
 - 📚 My academic interests also include linugistics, and [microtonal music theory](https://github.com/Sintrastes/xen-toolbox).
 - 💡 Ask me about [graded categories](https://digitallibrary.tulane.edu/islandora/object/tulane%3A90929/datastream/PDF/view).
 - 🌳 When I'm not nerding out, I like experimenting with cooking, playing video games, and exploring the outdoors.
