@@ -8,7 +8,7 @@ I have a wide variety of interests in sofrware development, from functional prog
 - 📫 How to reach me: nbedell@tulane.edu
 - 🏗️ I’m currently working on [Iodine](https://github.com/Sintrastes/iodine#iodine) and [Meriv](https://github.com/Sintrastes/meriv-vscode).
 - ✏️ I write [a blog](https://sintrastes.github.io/blog/archive.html) about math and programming sometimes.
-- 📚 My academic interests also include linugistics, and [microtonal music theory](https://github.com/Sintrastes/xen-toolbox).
+- 📚 My academic interests also include [linugistics](https://github.com/Sintrastes/Montague), and [microtonal music theory](https://github.com/Sintrastes/xen-toolbox).
 - 💡 Ask me about [graded categories](https://digitallibrary.tulane.edu/islandora/object/tulane%3A90929/datastream/PDF/view).
 - 🌳 When I'm not nerding out, I like experimenting with cooking, playing video games, and exploring the outdoors.
 
