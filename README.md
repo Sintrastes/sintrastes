@@ -30,6 +30,7 @@ I have a wide variety of interests in sofrware development, from functional prog
 #### Music
 
   * [Xen Fret](https://github.com/Sintrastes/xen-fret): A web app for microtonal guitarists.
+  * [Xen Toolbox](https://github.com/Sintrastes/xen-toolbox): Utility library in Haskell for xenharmonic theory and composition.
 
 #### Linguistics / NLP
 
