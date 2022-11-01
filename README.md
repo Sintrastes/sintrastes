@@ -6,14 +6,45 @@ I have a wide variety of interests in sofrware development, from functional prog
 
 - 🗨️ I use he/him pronouns.
 - 📫 How to reach me: nbedell@tulane.edu
-- 🏗️ I’m currently working on [Iodine](https://github.com/Sintrastes/iodine#iodine) and [Meriv](https://github.com/Sintrastes/meriv-vscode).
 - ✏️ I write [a blog](https://sintrastes.github.io/blog/archive.html) about math and programming sometimes.
 - 📚 My academic interests also include [linugistics](https://github.com/Sintrastes/Montague), and [microtonal music theory](https://github.com/Sintrastes/xen-toolbox).
 - 💡 Ask me about [graded categories](https://digitallibrary.tulane.edu/islandora/object/tulane%3A90929/datastream/PDF/view).
-- 🌳 When I'm not nerding out, I like experimenting with cooking, playing video games, and exploring the outdoors.
+- 🌳 When I'm not working on cool software projects, I like cooking, music, playing video games, and exploring the outdoors.
 
 ### What's in a name?
 - sintrastes: "sin trastes" -- Spanish for "without frets" or _fretless_
+
+### My Projects
+
+#### Programming Languages / DSLs
+
+  * [Hafly (WIP)](https://github.com/Sintrastes/hafly): A simple and flexible dynamically typed scripting langauge for embedding into Haskell projects.
+  * [Meriv (WIP)](https://github.com/Sintrastes/meriv-core): A statically typed functional-logic language for knowledge representation.
+  * [idr-pure-prolog](https://github.com/Sintrastes/idr-pure-prolog): An embedded domain specific for logic programming in Idris.
+  * [STLK](https://github.com/Sintrastes/STLK): Serializable and extensible simply-typed lamda calculus EDSL-building framework in Kotlin.
+
+#### UI/UX Design
+
+  * [Iodine](https://github.com/Sintrastes/Iodine): Functional UI toolkit built on top of Jetpack Compose.
+
+#### Music
+
+  * [Xen Fret](https://github.com/Sintrastes/xen-fret): A web app for microtonal guitarists.
+
+#### Linguistics / NLP
+
+  * [Montague](https://github.com/Sintrastes/Montague): Experimental library and DSL for parsing natural language into structured from using a combination of syntactic and semantic types.
+  * [hs-nlp](https://github.com/Sintrastes/hs-nlp): Collection of experiments implementing different forms of natural language processing in Haskell.
+
+#### GIS
+
+  * [MapAlgebra.jl](https://github.com/Sintrastes/MapAlgebra.jl): High-level Julia wrapper for GDAL allowing for map algebra operations and other manipulations of raster and vector data.
+
+#### Utilities
+
+  * [monad-tree](https://github.com/Sintrastes/monad-tree): A small Haskell library for a tree monad for nondeterministic computations allowing for different evaluation strategies.
+
+  * [buildable-kt](https://github.com/Sintrastes/buildable-kt): A Kotlin compiler plugin automatically generating a "partial" version of a data class, and some appropriate lenses.
 
 ### Some fun stats
 
