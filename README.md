@@ -39,7 +39,7 @@ I have a wide variety of interests in sofrware development, from functional prog
 
 #### GIS
 
-  * [MapAlgebra.jl](https://github.com/Sintrastes/MapAlgebra.jl): High-level Julia wrapper for GDAL allowing for map algebra operations and other manipulations of raster and vector data.
+  * [MapAlgebra.jl](https://github.com/Sintrastes/MapAlgebra.jl): High-level declarative GIS processing library for Julia.
 
 #### Utilities
 
