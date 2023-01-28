@@ -47,6 +47,10 @@ I have a wide variety of interests in sofrware development, from functional prog
 
   * [buildable-kt](https://github.com/Sintrastes/buildable-kt): A Kotlin compiler plugin automatically generating a "partial" version of a data class, and some appropriate lenses.
 
+#### Misc
+  * [awesome](https://github.com/Sintrastes/awesome)
+    * My personal awesome list of software engineering and mathematical resources.
+
 ### Some fun stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sintrastes)
