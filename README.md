@@ -41,6 +41,11 @@ I have a wide variety of interests in sofrware development, from functional prog
 
   * [MapAlgebra.jl](https://github.com/Sintrastes/MapAlgebra.jl): High-level declarative GIS processing library for Julia.
 
+#### TAK
+
+  * [partech-metadata-utils](https://github.com/PAR-Government/partech-metadata-utils): Utilities for ATAK designed to develop type-safe interfaces for ATAK core's metadata API.
+  * [atak-flix-dev](https://github.com/Sintrastes/atak-flix-dev): Experiment in building an ATAK plugin using the Flix programming language.
+
 #### Utilities
 
   * [monad-tree](https://github.com/Sintrastes/monad-tree): A small Haskell library for a tree monad for nondeterministic computations allowing for different evaluation strategies.
