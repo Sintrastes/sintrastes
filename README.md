@@ -56,6 +56,9 @@ I have a wide variety of interests in sofrware development, from functional prog
   * [awesome](https://github.com/Sintrastes/awesome)
     * My personal awesome list of software engineering and mathematical resources.
 
+  * [FlixRP](https://github.com/Sintrastes/FlixRP)
+    * Implementation of a functional reactive programming framework in the Flix programming language. 
+
 ### Some fun stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sintrastes)
