@@ -48,6 +48,8 @@ I have a wide variety of interests in sofrware development, from functional prog
 
 #### Utilities
 
+  * [Kinetix](https://github.com/Sintrastes/kinetix): A small Kotlin DSL for incremental computations.
+
   * [monad-tree](https://github.com/Sintrastes/monad-tree): A small Haskell library for a tree monad for nondeterministic computations allowing for different evaluation strategies.
 
   * [buildable-kt](https://github.com/Sintrastes/buildable-kt): A Kotlin compiler plugin automatically generating a "partial" version of a data class, and some appropriate lenses.
