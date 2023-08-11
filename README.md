@@ -56,7 +56,7 @@ I have a wide variety of interests in sofrware development, from functional prog
 
 #### Misc
   * [awesome](https://github.com/Sintrastes/awesome)
-    * My personal awesome list of software engineering and mathematical resources.
+    * My personal awesome list on a variety of things I find interesting: software engineering, mathematics, urbanism.
 
   * [FlixRP](https://github.com/Sintrastes/FlixRP)
     * Implementation of a functional reactive programming framework in the Flix programming language. 
