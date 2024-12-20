@@ -63,9 +63,6 @@ I have a wide variety of interests in sofrware development, from functional prog
 
 ### Some fun stats
 
-![](https://github-readme-stats.vercel.app/api?username=sintrastes)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sintrastes&hide=html,css&theme=vue&langs_count=7)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sintrastes&theme=vue&hide=html,css&langs_count=7)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sintrastes&theme=vue) 
